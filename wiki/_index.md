@@ -13,7 +13,7 @@
 | 🏗️ 典阅项目 | 6 个平台 | 典阅部署日常我的文档/ |
 | 📚 学习笔记总览 | 1,139→wiki | 全部目录 |
 
-**wiki 总计**: 13 篇文章（+2）, 已编译 1,143 个源文件（+4）
+**wiki 总计**: 13 篇文章, 已编译 1,223+ 个源文件（+80+）
 
 ## 📂 目录导航
 
@@ -52,8 +52,15 @@
   - AI/ML 领域 203 篇 → wiki/concepts + tools
   - 工作文档 327 篇 → wiki/projects
   - 学习笔记 102 篇 → wiki/学习笔记总览
-- **v3 增量 (05-31)**:
+- **v3 增量 (05-31)**: 编译 5 个剪藏素材到 wiki
   - `适用于Codex的自我提升提示词` → [[tools/AI编程-Codex-Cursor实战]] §8
   - `白嫖 OpenRouter 免费模型` + 日报 B 轮融资 → [[tools/openrouter]] (新建)
   - `Post by @卡帕蒂 on X` → [[people/karpathy]] (新建)
   - 日报 5 项标志性事件 → [[events/_index|事件时间线]]
+- **v4 增量 (05-31)**: 编译 `raw/clippings/工作/` + `其他/` 共 80+ 篇工作文档
+  - OpenStack/Proxmox/KVM/VMware 虚拟化 → [[运维技术]] §5
+  - Zabbix/Prometheus 监控 → [[运维技术]] §6
+  - Windows 运维（SVN/FTP/Redis/禅道）→ [[运维技术]] §7
+  - GitLab/Jira/Confluence/Jumpserver/Teleport → [[运维技术]] §8
+  - K8s 二进制安装补充 / 数据同步工具 → [[部署运维实战经验]] §8
+  - 5S/6A 开发规则 → [[tools/AI编程-Codex-Cursor实战]] §3.3
