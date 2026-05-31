@@ -209,8 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b5b6f6d0223d071",
+  "active": "61f28052d6d932ca",
   "lastOpenFiles": [
+    "scripts/watch-and-push.log",
+    "README.md",
+    "scripts/watch-and-push.ps1",
+    "scripts",
     "知识库迭代机制.md",
     "Clippings/适用于Codex的自我提升提示词(prompt).md",
     "欢迎.md",
@@ -235,8 +239,6 @@
     "wiki/concepts/_index.md",
     "wiki/_index.md",
     "raw/clippings/语雀迁移至Obsidian.md",
-    "raw/clippings/yuque-dldocsGET_TOEKN.md at main.md",
-    "raw/clippings/skyconnfigcodegraph Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local.md",
     "raw/clippings/典阅教育/vscode使用初阶/img/QFJUlhAsYPDyJ8Wa/1740981659347-b86b728d-5435-4a8d-8de7-4d64c302edcf-767555.png",
     "raw/clippings/典阅教育/vscode使用初阶/img/QFJUlhAsYPDyJ8Wa/1740981727948-38d16f6a-e82e-4081-b609-5651e6c54d92-278027.png",
     "raw/clippings/典阅教育/vscode使用初阶/img/QFJUlhAsYPDyJ8Wa/1740981686710-279b4950-f857-4537-9242-8de450012785-979704.png",
@@ -255,8 +257,6 @@
     "raw/clippings/典阅教育/服务器/attachments/JRqJKINuAQebICyV/740驱动.rar",
     "raw/clippings/典阅教育/学习笔记/attachments/_Z7EF5OfwDLjs7b6/5 Hacks to Build Professional Websites with Claude Code.pdf",
     "raw/clippings/典阅教育/典阅部署日常我的文档/attachments/ZXIxbOS988kyO_Fz/【F-22XXX】【P10335】智能技能系统运维手册V1.0.0(1).doc",
-    "raw/clippings/典阅教育/典阅部署日常我的文档/attachments/zmbSlhqthsyQSuYI/典阅跨境电商独立站建站与运营实训系统部署文档(1).docx",
-    "raw/clippings/典阅教育/典阅部署日常我的文档/attachments/Zdnso8Aj-nP19_7a/账号sql.xlsx",
     "未命名.canvas"
   ]
 }
