@@ -1,0 +1,24 @@
+# FastGpt
+
+### 1.创建知识库，表格是最精确得对答。
+![1739839983967-7d6d8840-df5c-46f6-aeda-9eeab96cbbf9.png](./img/KHPo1Oe5Ds91W3YK/1739839983967-7d6d8840-df5c-46f6-aeda-9eeab96cbbf9-998613.png)
+
+![1739840014505-85e9c8b7-d7ba-4f6a-9bf5-41f7732763a1.png](./img/KHPo1Oe5Ds91W3YK/1739840014505-85e9c8b7-d7ba-4f6a-9bf5-41f7732763a1-332573.png)
+
+![1739840162265-3c3531de-d736-472c-8bfc-11048ae5468a.png](./img/KHPo1Oe5Ds91W3YK/1739840162265-3c3531de-d736-472c-8bfc-11048ae5468a-987276.png)
+
+
+
+![1739840229977-6571268b-0ae1-4c3d-aada-391ba87037be.png](./img/KHPo1Oe5Ds91W3YK/1739840229977-6571268b-0ae1-4c3d-aada-391ba87037be-082618.png)
+
+![画板](./img/KHPo1Oe5Ds91W3YK/1739840338339-c54f89ae-e73b-4ea6-816c-e1b2889b98e5-999385.jpeg)
+
+### 2.创建应用
+![1739840271953-ac7f8bec-970d-4748-9b75-72f3b870fd69.png](./img/KHPo1Oe5Ds91W3YK/1739840271953-ac7f8bec-970d-4748-9b75-72f3b870fd69-987713.png)
+
+![画板](./img/KHPo1Oe5Ds91W3YK/1739841280923-5d1cf816-5fc3-432c-baf4-e108e6dbceb7-151338.jpeg)
+
+
+
+> 更新: 2025-02-18 09:14:43  
+> 原文: <https://www.yuque.com/lixinsi/vnere7/tqagl0w4fkcby53g>

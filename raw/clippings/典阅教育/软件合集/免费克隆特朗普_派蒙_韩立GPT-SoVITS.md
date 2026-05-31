@@ -1,0 +1,23 @@
+# 免费克隆特朗普/派蒙/韩立GPT-SoVITS
+
+**<font style="color:rgb(15, 15, 15);background-color:rgba(0, 0, 0, 0.05);">  
+</font>**
+
+
+
+<font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);">⚠️</font><font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);">警告：你的声音可能正在被AI盗用！ 只需3秒原声，免费克隆特朗普/派蒙/韩立（甚至你自己）的声音！ </font><font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);">✅</font><font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);"> 普通话/方言/英文/日文全能克隆 </font><font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);">✅</font><font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);"> 情绪自由操控 </font><font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);">✅</font><font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);"> 本地运行永久免费 </font>
+
+<font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);">➡️</font><font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);"> GPT-SoVITS官网：</font>[<font style="background-color:rgba(0, 0, 0, 0.05);">https://github.com/RVC-Boss/GPT-SoVITS</font>](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbG1OZTVjcjhzUVd3WDFDMWlERTFzMkdEdzhlZ3xBQ3Jtc0tsX21kbnBoM1Q1dW1vVzBjeFI5MjFMVTk0RV9BZnJKZXB3b1FxVURsZXB6Q1FKVzd1cUFQbHZsTnlUMVUtdHcwTGhmdW04YTUyZ3BLMmZxZ0NNa1ptS1VLcTIyR1JvaFUwVWZ2cVBVQ25aWnVXZll0WQ&q=https%3A%2F%2Fgithub.com%2FRVC-Boss%2FGPT-SoVITS&v=CDJ5BuGKW6s)<font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);"> </font><font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);">➡️</font><font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);"> </font>
+
+<font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);">50系显卡整合包：</font>[<font style="background-color:rgba(0, 0, 0, 0.05);">https://pan.quark.cn/s/af8e12a1a446</font>](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1V2V285OE92cmJSMjhZRThCZDk0cDFHRGJwQXxBQ3Jtc0tsRWNZLW1zM0IxaWJmN0FabVpwVW5fa2FMQkZQWHBGcE5BXzFlNzBhRlRTLVQxeWhzWDJOSFF4czJiRVBwRjQwSTVyQXh1NVk5NmNOZVBsZ3NKVEFzX1lWZUh4TFotM2YzVlVvc2YzRkF4VUxUdndNNA&q=https%3A%2F%2Fpan.quark.cn%2Fs%2Faf8e12a1a446&v=CDJ5BuGKW6s)<font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);"> </font><font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);">➡️</font><font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);"> </font>
+
+<font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);">50以下显卡整合包：</font>[<font style="background-color:rgba(0, 0, 0, 0.05);">https://pan.quark.cn/s/68d197c32245</font>](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0xoaTJvUWVfXzg2VnRmck1DWFpHWTJFOUFKZ3xBQ3Jtc0trb3g0MTJCMGJFTC1WNjU5SDBseEFfZ1A5Q09kT3F6d01JTUtlM3JHWFd4NDM5Vm94dFJOQV9icF9uQVFqVlktVWdNZ2NpYW5sbDEwYk1ncDRadUNKdmpvS0JNbHFqTlJOSGVJem5xRXd1MzNEdUdkQQ&q=https%3A%2F%2Fpan.quark.cn%2Fs%2F68d197c32245&v=CDJ5BuGKW6s)<font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);"> </font><font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);">➡️</font><font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);"> </font>
+
+<font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);">mac版一键整合包：</font>[<font style="background-color:rgba(0, 0, 0, 0.05);">https://pan.quark.cn/s/733245e040f2</font>](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3JVWjMtTTROVTA0azUzZF9WY1hkb3pMaGQtUXxBQ3Jtc0tsRFF3cTV3bExGTXlFV1lGN1dLRmhCSGN4Vl9TZ2ZtRmVDdEpKVk1CMUQtdGNsZjFwQU5SXzhZWWdQdFFtZlZUVWc1Wnhiak9jdXN1OUg1cWY2RzY4ZUFTMHJoNldLRUpJRzk5RzFQTFVsSkRrVUxXVQ&q=https%3A%2F%2Fpan.quark.cn%2Fs%2F733245e040f2&v=CDJ5BuGKW6s)<font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);"> </font>
+
+<font style="color:rgb(19, 19, 19);background-color:rgba(0, 0, 0, 0.05);">官方推荐的模型分享社区：</font>[<font style="background-color:rgba(0, 0, 0, 0.05);">https://www.ai-hobbyist.com/</font>](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjcwNzZxdE9pMElJUlkyMXpCckpnZnVjT1NPd3xBQ3Jtc0tsY1hjNE5sWm9MZ3hiQmpqN2FobV94ZHhaVXg1bHQ0UVM5bW9KNzdQVmdWMm5ROG9rX0hXVE1IVk9SX2VJbXpjZG1WLXo0aWYxMlViRFVvdTAzX254Tmd3cTJTZHVkRnVSYTBiaWlSY09KMWhSbWUyOA&q=https%3A%2F%2Fwww.ai-hobbyist.com%2F&v=CDJ5BuGKW6s)
+
+
+
+> 更新: 2025-10-03 11:29:38  
+> 原文: <https://www.yuque.com/lixinsi/akt91g/vmqotf31dxp8b8p8>

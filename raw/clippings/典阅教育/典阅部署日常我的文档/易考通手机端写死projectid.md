@@ -1,0 +1,16 @@
+# 易考通手机端写死projectid
+
+![1742356639162-850c0996-670d-4df6-9e47-2c3e73023404.png](./img/WY_EDuNqO_8n7BxL/1742356639162-850c0996-670d-4df6-9e47-2c3e73023404-925535.png)
+
+
+
+![1742356664065-7ee09ff3-8955-4a89-8cb2-c094f7e4c6f3.png](./img/WY_EDuNqO_8n7BxL/1742356664065-7ee09ff3-8955-4a89-8cb2-c094f7e4c6f3-206507.png)
+
+
+
+![1742356691170-5e46c526-a4c1-4888-a1ba-75847a15362f.png](./img/WY_EDuNqO_8n7BxL/1742356691170-5e46c526-a4c1-4888-a1ba-75847a15362f-688808.png)
+
+
+
+> 更新: 2025-03-19 11:58:13  
+> 原文: <https://www.yuque.com/lixinsi/hntyk2/fexxew7le7wsi0g4>

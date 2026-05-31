@@ -1,0 +1,39 @@
+-- 电商沙盘
+update `tb_user`  set Password=(SELECT FLOOR(RAND() * (999999 - 100000 + 1)) + 100000) where Type=3;
+
+-- 全流程
+update [dbo].[tb_userinfo] set upass=(SELECT FLOOR(RAND(CHECKSUM(NEWID())) * 900000) + 100000 AS RandomInteger) where ukind=3;
+
+-- 云平台
+update [dbo].[tb_User] set Password=(SELECT FLOOR(RAND(CHECKSUM(NEWID())) * 900000) + 100000 AS RandomInteger) where Type=3;
+
+-- 案例系统
+update [dbo].[tb_User] set Password=(SELECT FLOOR(RAND(CHECKSUM(NEWID())) * 900000) + 100000 AS RandomInteger) where Type=3;
+
+-- 电商大数据
+update [dbo].[tb_User] set Password=(SELECT FLOOR(RAND(CHECKSUM(NEWID())) * 900000) + 100000 AS RandomInteger) where Type=3;
+
+-- 老直播系统
+update [dbo].[tb_User] set Password=(SELECT FLOOR(RAND(CHECKSUM(NEWID())) * 900000) + 100000 AS RandomInteger) where Type=3;
+
+-- 商务数据分析
+update [dbo].[tb_User] set Password=(SELECT FLOOR(RAND(CHECKSUM(NEWID())) * 900000) + 100000 AS RandomInteger) where Type=3;
+
+-- 海外社媒
+update [dbo].[P2P_Users] set U_UserPwd=(SELECT FLOOR(RAND(CHECKSUM(NEWID())) * 900000) + 100000 AS RandomInteger) where U_UserType=1;
+
+-- 独立站
+update [dbo].[P2P_Users] set U_UserPwd=(SELECT FLOOR(RAND(CHECKSUM(NEWID())) * 900000) + 100000 AS RandomInteger) where U_UserType=1;
+
+-- 客服系统
+update [dbo].[tb_org_student] set F_Password=(SELECT FLOOR(RAND(CHECKSUM(NEWID())) * 900000) + 100000 AS RandomInteger);
+
+-- 国贸单证系统
+update [dbo].[tb_org_student] set F_Password=(SELECT FLOOR(RAND(CHECKSUM(NEWID())) * 900000) + 100000 AS RandomInteger);
+
+-- 国贸综合系统
+update [dbo].[tb_org_student] set F_Password=(SELECT FLOOR(RAND(CHECKSUM(NEWID())) * 900000) + 100000 AS RandomInteger);
+
+-- 新直播系统
+update [dbo].[tb_org_student] set F_Password=(SELECT FLOOR(RAND(CHECKSUM(NEWID())) * 900000) + 100000 AS RandomInteger);
+

@@ -1,0 +1,31 @@
+﻿# Obsidian vault .gitignore
+
+# Large binaries / archives
+*.zip
+*.7z
+*.rar
+*.exe
+*.dll
+*.pyd
+*.pdf
+*.docx
+*.doc
+*.chm
+
+# Python virtual environments
+.venv/
+__pycache__/
+*.pyc
+
+# IDE / workspace
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+Thumbs.db
+.DS_Store
+*.swp
+
+# Horizon is a separate repo (add as submodule or skip)
+/horizon/

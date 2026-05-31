@@ -1,0 +1,59 @@
+delete tb_Achievement
+delete tb_Person_StockOperationRecords
+delete tb_Person_FundOperationRecords
+delete tb_Person_NationalDebtOperationRecords
+delete tb_Person_CurrencyOperationRecords
+delete tb_Person_TrustOperationRecords
+delete tb_Person_BondOperationRecords
+
+delete tb_Person_CustomInfo
+delete tb_Person_QuarterData
+
+delete tb_Person_DrawCardQuarterData
+delete tb_Person_CardDrawingRecords
+delete tb_Person_QuarterlyEvents
+delete tb_Person_PurchaseInsurance
+delete tb_Person_FinancingLoan
+delete tb_Person_FinancingOperationRecords
+
+deletetb_Person_FinancingTrust
+delete：tb_Person_TrustBuyRecord
+delete tb_Person_TrustRepaymentRecord
+
+delete：tb_Person_FinancingBond
+delete tb_Person_BondBuyRecord
+delete tb_Person_BondRepaymentRecord
+
+delete tb_GS_CustomInfo
+delete tb_GS_QuarterData
+
+delete tb_GS_DrawCardQuarterData
+delete tb_GS_CardDrawingRecords
+delete tb_GS_QuarterlyEvents
+
+delete tb_GS_FinancingLoan
+delete tb_GS_FinancingOperationRecords
+
+delete tb_GS_StockOperationRecords
+delete tb_GS_FundOperationRecords
+delete tb_GS_NationalDebtOperationRecords
+delete tb_GS_CurrencyOperationRecords
+delete tb_GS_TrustOperationRecords
+delete tb_GS_BondOperationRecords
+
+delete tb_GS_FinancingTrust
+deletetb_GS_TrustBuyRecord
+delete tb_GS_TrustRepaymentRecord
+delete tb_GS_FinancingIPO
+
+delete tb_GS_FinancingBond
+delete tb_GS_BondBuyRecord
+delete tb_GS_BondRepaymentRecord
+
+delete tb_GS_FinancingMerger
+delete：tb_GS_FinancingMergerBid
+deletetb_GS_MergerOperationRecord
+
+deletetb_GS_FinanceLease
+delete tb_GS_FinanceLeaseBase
+

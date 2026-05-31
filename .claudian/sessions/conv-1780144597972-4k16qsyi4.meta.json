@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780144597972-4k16qsyi4",
+  "providerId": "claude",
+  "title": "Explore current directory",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780144597974,
+  "updatedAt": 1780144667641,
+  "lastResponseAt": 1780144667641,
+  "sessionId": "cdb41971-6869-46d5-a0e0-c328c022db9a",
+  "providerState": {
+    "providerSessionId": "cdb41971-6869-46d5-a0e0-c328c022db9a"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1539,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 55680,
+    "contextWindow": 200000,
+    "contextTokens": 57219,
+    "percentage": 29,
+    "contextWindowIsAuthoritative": true
+  }
+}

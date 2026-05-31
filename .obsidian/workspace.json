@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "4cc69fc146df72e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "703039e2033ef4f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b5b6f6d0223d071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/适用于Codex的自我提升提示词(prompt).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "适用于Codex的自我提升提示词(prompt)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fdbe8c0d744d358",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9d206c7bcadd186",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61f28052d6d932ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "09e6429f65a70691",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fe74a9375eed9046",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e52ba2b3ac5229e",
+    "type": "split",
+    "children": [
+      {
+        "id": "620c46ce7e8c83bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff05cab444cd5d67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "典阅教育/典阅部署日常我的文档.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "典阅部署日常我的文档 的反向链接列表"
+            }
+          },
+          {
+            "id": "ec1228ba429df22c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "典阅教育/典阅部署日常我的文档.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "典阅部署日常我的文档 的出链列表"
+            }
+          },
+          {
+            "id": "a7c9b949721b3338",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b88eb10ff3d3a5c0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "5c3924aba753fb92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "典阅教育/典阅部署日常我的文档.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "典阅部署日常我的文档 的大纲"
+            }
+          },
+          {
+            "id": "d5caaf27196ae090",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "dec33f7600b127b9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false,
+      "xiaohongshu-importer:Import Xiaohongshu note": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6b5b6f6d0223d071",
+  "lastOpenFiles": [
+    "知识库迭代机制.md",
+    "Clippings/适用于Codex的自我提升提示词(prompt).md",
+    "欢迎.md",
+    "raw/clippings/典阅教育/仿真/3D建模.md",
+    "raw/clippings/典阅教育/大模型/手把手教你Windows安装Python以及pip.md",
+    "Component.md",
+    "raw/clippings/典阅教育/CAD/pdf转cad.md",
+    "raw/clippings/典阅教育/学习笔记/著作权登记业务办理.md",
+    "Clippings/theajackdisable-devtool Disable web developer tools from the f12 button, right-click and browser menu.md",
+    "wiki/FastAPI项目实战指南.md",
+    "wiki/tools/_index.md",
+    "wiki/tools/AI编程-Codex-Cursor实战.md",
+    "wiki/concepts/AI-ML核心实战.md",
+    "wiki/部署运维实战经验.md",
+    "wiki/学习笔记总览.md",
+    "wiki/projects.md",
+    "wiki/运维技术.md",
+    "AGENTS.md",
+    "wiki/典阅教育知识库.md",
+    "wiki/people/_index.md",
+    "wiki/events/_index.md",
+    "wiki/concepts/_index.md",
+    "wiki/_index.md",
+    "raw/clippings/语雀迁移至Obsidian.md",
+    "raw/clippings/yuque-dldocsGET_TOEKN.md at main.md",
+    "raw/clippings/skyconnfigcodegraph Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local.md",
+    "raw/clippings/典阅教育/vscode使用初阶/img/QFJUlhAsYPDyJ8Wa/1740981659347-b86b728d-5435-4a8d-8de7-4d64c302edcf-767555.png",
+    "raw/clippings/典阅教育/vscode使用初阶/img/QFJUlhAsYPDyJ8Wa/1740981727948-38d16f6a-e82e-4081-b609-5651e6c54d92-278027.png",
+    "raw/clippings/典阅教育/vscode使用初阶/img/QFJUlhAsYPDyJ8Wa/1740981686710-279b4950-f857-4537-9242-8de450012785-979704.png",
+    "raw/clippings/典阅教育/vscode使用初阶/img/QFJUlhAsYPDyJ8Wa/1740981637363-6ca807e7-e419-4f42-8c5d-e97291d093a6-398996.png",
+    "raw/clippings/典阅教育/vscode使用初阶/img/QFJUlhAsYPDyJ8Wa/1740981559094-dfa092db-f4d8-4d11-9ad6-5297cba6f1fd-623285.png",
+    "raw/clippings/典阅教育/vscode使用初阶/img/Dl3GnVb6k5chdA5j/1768985958419-05af3553-32a6-4121-a037-83cce4dc5d04-050458.png",
+    "raw/clippings/典阅教育/vscode使用初阶/img/Dl3GnVb6k5chdA5j/1776585709245-f890fa53-7d8c-40ad-ab4f-18fcd52cc971-814203.png",
+    "raw/clippings/典阅教育/vscode使用初阶/img/Dl3GnVb6k5chdA5j/1768988603229-6e103307-e4f3-4a41-8ccc-9448d30cfe3e-854974.png",
+    "raw/clippings/典阅教育/vscode使用初阶/img/Dl3GnVb6k5chdA5j/1768986090657-2b1d3fd9-df5f-46ce-9be1-94c825dce9d8-928011.png",
+    "raw/clippings/典阅教育/vscode使用初阶/img/Dl3GnVb6k5chdA5j/1768985814223-89d3a472-c93f-4f11-ba11-93b901993db1-684919.png",
+    "raw/clippings/典阅教育/Linux/attachments/5QAnDiejDCVCBqW6/nginx.conf",
+    "raw/clippings/典阅教育/量化知识汇总/attachments/vQ21OZ7kFiU_1Fda/字段中文对照.xlsx",
+    "raw/clippings/典阅教育/量化知识汇总/attachments/vQ21OZ7kFiU_1Fda/20250915.csv",
+    "raw/clippings/典阅教育/服务器/attachments/JRqJKINuAQebICyV/rufus-3.17.rar",
+    "raw/clippings/典阅教育/服务器/attachments/JRqJKINuAQebICyV/KMS激活工具(AAct)3.9.6.x64汉化版.rar",
+    "raw/clippings/典阅教育/服务器/attachments/JRqJKINuAQebICyV/740驱动.rar",
+    "raw/clippings/典阅教育/学习笔记/attachments/_Z7EF5OfwDLjs7b6/5 Hacks to Build Professional Websites with Claude Code.pdf",
+    "raw/clippings/典阅教育/典阅部署日常我的文档/attachments/ZXIxbOS988kyO_Fz/【F-22XXX】【P10335】智能技能系统运维手册V1.0.0(1).doc",
+    "raw/clippings/典阅教育/典阅部署日常我的文档/attachments/zmbSlhqthsyQSuYI/典阅跨境电商独立站建站与运营实训系统部署文档(1).docx",
+    "raw/clippings/典阅教育/典阅部署日常我的文档/attachments/Zdnso8Aj-nP19_7a/账号sql.xlsx",
+    "未命名.canvas"
+  ]
+}
