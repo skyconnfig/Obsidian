@@ -22,4 +22,9 @@
   - Horizon 日报系统上线，每日自动推送 AI 热点
   - CodeGraph v0.9.7 安装，代码知识图谱建立
   - 知识库迭代机制 v2 确立：全部 1,139 篇笔记完成编译
-  - 知识库规模达 6 篇 wiki 文章 / ~1,500 字
+  - OpenRouter 完成 1.13 亿美元 B 轮融资，LLM API 网关市场验证
+  - Anthropic 估值达 9650 亿美元（融资 65 亿），超越 OpenAI
+  - Genesis AI 发布 Genesis World 1.0 机器人仿真平台
+  - NVIDIA 发布 NVFP4 4 位量化，Qwen3.6 MoE 模型可部署至消费级硬件
+  - Accenture 以 12 亿美元收购 Ookla（Speedtest 母公司）
+  - 知识库规模达 9 篇 wiki 文章 / 持续增长中

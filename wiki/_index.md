@@ -1,6 +1,6 @@
 # 📚 知识库索引
 
-> 由 LLM 自动维护 · 最后更新: 2026-05-30
+> 由 LLM 自动维护 · 最后更新: 2026-05-31（第 2 次增量编译）
 
 ## 📊 统计
 
@@ -13,7 +13,7 @@
 | 🏗️ 典阅项目 | 6 个平台 | 典阅部署日常我的文档/ |
 | 📚 学习笔记总览 | 1,139→wiki | 全部目录 |
 
-**wiki 总计**: 11 篇文章, 已编译 1,139 个源文件
+**wiki 总计**: 13 篇文章（+2）, 已编译 1,143 个源文件（+4）
 
 ## 📂 目录导航
 
@@ -26,10 +26,11 @@
 |---|----|
 | Dify · Coze · Codex CLI · Cursor · Claude Code · CodeGraph | |
 | Docker · vLLM · LangChain · Cloudflare · Obsidian · Horizon | |
+| [[tools/openrouter\|OpenRouter]] · FastAPI · ... | |
 
 | → `people/` | 关键人物 |
 |---|----|
-| Karpathy · AI 工具生态开发者 · luolin1024 | |
+| [[people/karpathy\|Karpathy]] (详细档案) · AI 工具生态开发者 · luolin1024 | |
 
 | → `events/` | 时间线 |
 |---|----|
@@ -51,3 +52,8 @@
   - AI/ML 领域 203 篇 → wiki/concepts + tools
   - 工作文档 327 篇 → wiki/projects
   - 学习笔记 102 篇 → wiki/学习笔记总览
+- **v3 增量 (05-31)**:
+  - `适用于Codex的自我提升提示词` → [[tools/AI编程-Codex-Cursor实战]] §8
+  - `白嫖 OpenRouter 免费模型` + 日报 B 轮融资 → [[tools/openrouter]] (新建)
+  - `Post by @卡帕蒂 on X` → [[people/karpathy]] (新建)
+  - 日报 5 项标志性事件 → [[events/_index|事件时间线]]

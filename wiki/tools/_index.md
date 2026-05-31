@@ -46,6 +46,6 @@
 |------|------|------|
 | **Obsidian** | 本地知识库 + 双向链接 | 语雀迁移至Obsidian |
 | **yuque-dl** | 语雀→Markdown 批量导出 | yuque-dl文档 |
-| **OpenRouter** | 多模型 API 聚合（每日 50 次免费） | 白嫖OpenRouter |
+| **[[openrouter\|OpenRouter]]** | LLM API 聚合网关，每日免费 50 次，1.13 亿美元 B 轮融资 | openrouter.md |
 | **Horizon** | AI 日报系统（每日自动推送） | horizon/ |
 
