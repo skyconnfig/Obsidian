@@ -6,7 +6,7 @@
 | **Codex CLI** | AI 编程助手，MCP 配置、项目开发 | codex/ |
 | **Cursor** | AI IDE，rules 文件管理、无限续杯 | cursor知识库/ |
 | **Claude Code** | Anthropic 命令行 AI 编码工具 | 学习笔记/ |
-| **CodeGraph** | 语义代码知识图谱 (v0.9.7) | 已安装 |
+| **CodeGraph** | 语义代码知识图谱 — 预索引代码图，工具调用减少 62%，100% 本地运行 (v0.9.7) | 已安装 / 自维护 |
 
 > 详见：[AI编程-Codex-Cursor实战](AI编程-Codex-Cursor实战.md) — 三阶段开发工作流、Rules 体系、复现方法论
 
@@ -48,4 +48,10 @@
 | **yuque-dl** | 语雀→Markdown 批量导出 | yuque-dl文档 |
 | **[[openrouter\|OpenRouter]]** | LLM API 聚合网关，每日免费 50 次，1.13 亿美元 B 轮融资 | openrouter.md |
 | **Horizon** | AI 日报系统（每日自动推送） | horizon/ |
+
+## 🔒 前端安全
+| 工具 | 用途 | 来源 |
+|------|------|------|
+| **[[disable-devtool\|disable-devtool]]** | 一行代码禁用 F12/右键/开发者工具，适合在线考试防作弊 | theajack/disable-devtool |
+| **JD-GUI** | Java 反编译图形化工具（.class → .java） | 日常文件夹/ |
 
