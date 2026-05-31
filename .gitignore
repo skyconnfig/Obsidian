@@ -29,3 +29,7 @@ Thumbs.db
 
 # Horizon is a separate repo (add as submodule or skip)
 /horizon/
+
+# Watch script log
+scripts/watch-and-push.log
+
