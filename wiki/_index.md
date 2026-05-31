@@ -1,6 +1,6 @@
 # 📚 知识库索引
 
-> 由 LLM 自动维护 · 最后更新: 2026-05-31（第 4 次增量编译）
+> 由 LLM 自动维护 · 最后更新: 2026-05-31（第 5 次增量编译）
 
 ## 📊 统计
 
@@ -72,3 +72,7 @@
 - **v6 增量 (05-31)**: 编译剩余工作文档 15+ 篇补充到 wiki
   - Docker 进阶专题（容器 vs 虚拟机 / Jupyter / Alist / ddns-go / VNC）→ [[运维技术]] §1
   - 实用工具补充（CDN / Lanproxy / ddns-go / FinalShell / PicGo）→ [[tools/_index|工具索引]]
+- **v7 增量 (05-31)**: 终轮扫描 — 新发现 raw/clippings/ 子目录 10 个全量排查
+  - 西安银行定制化培训平台（Vue3 + Flask + MySQL）→ [[典阅教育知识库]]
+  - 确认 3月文档/产教融合/典阅杯/秦农银行/国赛等均为非 md 格式（docx/pptx/pdf）— 无知识编译价值
+  - raw/clippings 全量清空 ✅
