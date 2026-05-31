@@ -2,9 +2,9 @@
 .SYNOPSIS
     Polls the Obsidian vault for file changes, then auto-commits and pushes to GitHub.
 .DESCRIPTION
-    Periodically checks git status for changes. If changes are detected and
-    no new changes appear within the debounce window, it commits and pushes.
-    More reliable than FileSystemWatcher for background/scheduled use.
+    Periodically checks git status for changes. If changes persist beyond the
+    debounce window (no new modifications), it stages all changes, commits with
+    a timestamp, and pushes to the configured remote.
 #>
 
 param(
@@ -14,7 +14,7 @@ param(
     [string]$LogFile = ""
 )
 
-# Default log file to script directory if not specified
+# Default log file path
 if (-not $LogFile) {
     $LogFile = Join-Path $PSScriptRoot "watch-and-push.log"
 }
@@ -86,23 +86,27 @@ while ($true) {
     Pop-Location
 
     if ($porcelain) {
-        $now = Get-Date
         if ($lastChangeSeen -eq [DateTime]::MinValue) {
-            $lastChangeSeen = $now
-            Write-Log "Changes detected. Waiting ${DebounceSeconds}s for more..."
-        } elseif (($now - $lastChangeSeen).TotalSeconds -ge $DebounceSeconds) {
-            # Enough time has passed since last change
+            # First detection: note the time
+            $lastChangeSeen = Get-Date
+            Write-Log "Changes detected. Waiting ${DebounceSeconds}s of stability..."
+        } elseif ((Get-Date) - $lastChangeSeen -gt [TimeSpan]::FromSeconds($DebounceSeconds)) {
+            # Changes have persisted beyond debounce — commit
             Write-Log "Debounce elapsed. Committing and pushing..."
             Invoke-GitCommitAndPush -RepoPath $RepoPath
             $lastChangeSeen = [DateTime]::MinValue
-        } else {
-            # Still within debounce window, reset timer
-            $lastChangeSeen = $now
         }
+        # else: still within debounce window, keep waiting
     } else {
-        # No changes right now
+        # No changes — check if we were waiting for debounce
         if ($lastChangeSeen -ne [DateTime]::MinValue) {
-            # But we had seen changes earlier — reset if no longer dirty
+            $timeWaited = ((Get-Date) - $lastChangeSeen).TotalSeconds
+            if ($timeWaited -ge $DebounceSeconds) {
+                Write-Log "Debounce elapsed. Committing and pushing..."
+                Invoke-GitCommitAndPush -RepoPath $RepoPath
+            } else {
+                Write-Log "Changes disappeared after ${timeWaited}s (debounce ${DebounceSeconds}s). No action."
+            }
             $lastChangeSeen = [DateTime]::MinValue
         }
     }
