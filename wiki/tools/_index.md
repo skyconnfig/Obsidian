@@ -39,7 +39,10 @@
 |------|------|------|
 | **Cloudflare** | 免费域名托管、VPS、CDN | 学习笔记/ |
 | **Clash** | 代理/翻墙工具 | ai/ + 学习笔记/ |
-| **内网穿透** | 外网映射方案 | 内网穿透_外网映射/ |
+| **腾讯云 CDN** | 内容分发加速，全球节点就近访问 | 工作/Markdown |
+| **Lanproxy** | 开源内网穿透（Java，TCP 转发），替代花生壳 | 工作/Markdown |
+| **ddns-go** | DDNS 动态域名解析，自动同步 IPv4/IPv6 到 DNS 服务商 | 工作/Markdown |
+| **FinalShell** | 国产免费 SSH 客户端，集成服务器监控 + 远程桌面加速 | 工作/Markdown |
 
 ## 📝 内容与创作
 | 工具 | 用途 | 来源 |
@@ -48,6 +51,7 @@
 | **yuque-dl** | 语雀→Markdown 批量导出 | yuque-dl文档 |
 | **[[openrouter\|OpenRouter]]** | LLM API 聚合网关，每日免费 50 次，1.13 亿美元 B 轮融资 | openrouter.md |
 | **Horizon** | AI 日报系统（每日自动推送） | horizon/ |
+| **PicGo + Gitee** | 免费图床方案，配合 Obsidian 插件自动上传替换图片 | 工作/Markdown |
 
 ## 🔒 前端安全
 | 工具 | 用途 | 来源 |

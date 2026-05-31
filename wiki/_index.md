@@ -1,6 +1,6 @@
 # 📚 知识库索引
 
-> 由 LLM 自动维护 · 最后更新: 2026-05-31（第 3 次增量编译）
+> 由 LLM 自动维护 · 最后更新: 2026-05-31（第 4 次增量编译）
 
 ## 📊 统计
 
@@ -69,3 +69,6 @@
   - CodeGraph 详细说明 → [[tools/_index|工具索引]]
   - TenSunS 监控平台 → [[运维技术]] §6
   - 语雀迁移故事 → [[events/_index|事件时间线]]
+- **v6 增量 (05-31)**: 编译剩余工作文档 15+ 篇补充到 wiki
+  - Docker 进阶专题（容器 vs 虚拟机 / Jupyter / Alist / ddns-go / VNC）→ [[运维技术]] §1
+  - 实用工具补充（CDN / Lanproxy / ddns-go / FinalShell / PicGo）→ [[tools/_index|工具索引]]
