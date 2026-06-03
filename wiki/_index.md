@@ -1,6 +1,6 @@
 # 📚 知识库索引
 
-> 由 LLM 自动维护 · 最后更新: 2026-05-31（第 5 次增量编译）
+> 由 LLM 自动维护 · 最后更新: 2026-06-03（第 6 次增量编译）
 
 ## 📊 统计
 
@@ -76,3 +76,9 @@
   - 西安银行定制化培训平台（Vue3 + Flask + MySQL）→ [[典阅教育知识库]]
   - 确认 3月文档/产教融合/典阅杯/秦农银行/国赛等均为非 md 格式（docx/pptx/pdf）— 无知识编译价值
   - raw/clippings 全量清空 ✅
+- **v8 增量 (06-03)**: 6 个新剪藏增量编译到 wiki
+  - Codex 设计美学 3 技能包（impeccable/taste/Frontend App Builder）→ [[tools/AI编程-Codex-Cursor实战]] §9
+  - 3D 动捕开源方案（SysMocap + Facial Motion Capture）→ [[concepts/AI-ML核心实战]] §4.2
+  - 本地 AI 图像生成生态 7 工具 → [[concepts/AI-ML核心实战]] §4.3
+  - AI 账号管理工具（any-auto-register / aBaiAutoplus）→ [[tools/_index|工具索引]]
+  - 媒体下载工具（OmniGet）→ [[tools/_index|工具索引]]

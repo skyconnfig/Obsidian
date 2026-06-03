@@ -198,7 +198,27 @@ Fay（规则驱动）→ DIFY+ADH（LLM 驱动）→ LiveTalking（实时交互�
 
 **NanoBanana**：0.5B 参数的 2D 数字人，效果好，体积小，适合边缘部署
 
+**开源动作捕捉方案**（零成本 VTuber 动捕系统）：
+| 工具 | 用途 | 核心技术 |
+|------|------|---------|
+| **SysMocap** | 全身肢体捕捉（WebCam） | MediaPipe，支持 VRM/FBX/GLB 模型拖拽，输出 OBS/Unity/Unreal/WebXR |
+| **Facial Motion Capture** | 面部微表情捕捉 | 纯浏览器运行，Blendshape 映射，支持导出 GLB 动画 |
+| **融合方案** | 身体+面部双源合并 | WebSocket/OSC 协议交互，在 Unity/UE 中分层渲染 |
+
+> 开源方案组合 ≈ 商业 Xsens 动捕服 + iPhone 面捕的平替，总成本 ≈ 0。
+
 ### 4.3 图像：Stable Diffusion + ComfyUI
+
+**本地免费 AI 图像生成生态**（9 大开源工具）：
+| 工具 | 定位 | 特点 |
+|------|------|------|
+| **ComfyUI** | 最强节点式 | 工作流可视化，完全控制每一步 |
+| **Automatic1111** | 最流行 | 传统 UI + 庞大扩展生态 |
+| **Fooocus** | 最简单 | 几分钟安装，无需技术知识 |
+| **InvokeAI** | 最专业 | 统一画布 + 制作管线 |
+| **SwarmUI** | 最模块化 | 支持 SDXL/Flux/视频模型，全平台 |
+| **Forge** | 最优化 | A1111 fork，VRAM 优化更好 |
+| **StableSwarmUI** | 生成式引擎 | 模块化工作流 |
 
 - **Docker 部署 SD WebUI**：方便 GPU 资源管理，但需要处理容器内挂载共享目录（模型文件/LoRA）
 - **ComfyUI**：工作流节点编辑器，适合复杂图像生成管线

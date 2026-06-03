@@ -59,3 +59,14 @@
 | **[[disable-devtool\|disable-devtool]]** | 一行代码禁用 F12/右键/开发者工具，适合在线考试防作弊 | theajack/disable-devtool |
 | **JD-GUI** | Java 反编译图形化工具（.class → .java） | 日常文件夹/ |
 
+## 🔑 AI 账号与工具管理
+| 工具 | 用途 | 来源 |
+|------|------|------|
+| **any-auto-register** | 多平台 AI 账号自动注册/续期，支持 11+ 平台，协议/浏览器双模式 | lxf746/any-auto-register |
+| **[[aBaiAutoplus]]** | any-auto-register 增强版，新增 PayPal+GoPay 协议付费开通 ChatGPT Plus | skyconnfig/aBaiAutoplus |
+
+## 🎬 媒体与学习
+| 工具 | 用途 | 来源 |
+|------|------|------|
+| **OmniGet** | 开源桌面下载器（Tauri+Rust+Svelte），支持 Udemy/YouTube/1800+ 站点，内置 PDF/EPUB 阅读器 | tonhowtf/omniget |
+
