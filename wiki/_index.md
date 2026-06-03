@@ -1,6 +1,6 @@
 # 📚 知识库索引
 
-> 由 LLM 自动维护 · 最后更新: 2026-06-03（第 6 次增量编译）
+> 由 LLM 自动维护 · 最后更新: 2026-06-03（第 7 次增量编译）
 
 ## 📊 统计
 
@@ -82,3 +82,8 @@
   - 本地 AI 图像生成生态 7 工具 → [[concepts/AI-ML核心实战]] §4.3
   - AI 账号管理工具（any-auto-register / aBaiAutoplus）→ [[tools/_index|工具索引]]
   - 媒体下载工具（OmniGet）→ [[tools/_index|工具索引]]
+- **v9 增量 (06-03)**: 2 个新剪藏 + 补交遗漏文件
+  - 自托管 AI 工作空间 (Odysseus) → [[tools/_index|工具索引]]
+  - GPT Image 2 提示词库 (2000+ prompts) → [[tools/_index|工具索引]]
+  - GSAP AI 技能包 (8 模块) → [[tools/skyconnfig-gsap-skills]] (补交)
+  - 跳过 codegraph / disable-devtool 重复剪藏

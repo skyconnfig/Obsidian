@@ -25,6 +25,9 @@
 | **Fay** | 数字人框架 v5.4 | 人工智能相关/Fay5_4_Sep |
 | **ComfyUI** | Stable Diffusion 工作流界面 | 人工智能相关/comfyui |
 | **GraphRAG** | 图数据库 RAG (Neo4j) | 大模型/GraphRAG |
+| **Odysseus** | 自托管 AI 工作空间 — 本地版 ChatGPT/Claude，Docker 部署，含智能体/深度研究/模型管家/记忆技能 | skyconnfig/odysseus |
+| **GPT Image 2 Prompts** | 全球最大 GPT Image 2 提示词库，2000+ 精选提示词，16 语言，每日更新 | skyconnfig/gpt-image2-prompts |
+| **[[skyconnfig-gsap-skills\|GSAP Skills]]** | GSAP 官方 AI 技能包镜像 — 8 模块（core/timeline/scrolltrigger/plugins/react/performance） | skyconnfig/gsap-skills |
 
 ## 🐳 部署与运维栈
 | 工具 | 用途 | 来源 |
