@@ -1,6 +1,6 @@
 # 📚 知识库索引
 
-> 由 LLM 自动维护 · 最后更新: 2026-06-03（第 7 次增量编译）
+> 由 LLM 自动维护 · 最后更新: 2026-06-03（第 8 次增量编译）
 
 ## 📊 统计
 
@@ -87,3 +87,6 @@
   - GPT Image 2 提示词库 (2000+ prompts) → [[tools/_index|工具索引]]
   - GSAP AI 技能包 (8 模块) → [[tools/skyconnfig-gsap-skills]] (补交)
   - 跳过 codegraph / disable-devtool 重复剪藏
+- **v10 增量 (06-03)**: 1 个新剪藏
+  - 免费开源录屏工具 (OpenScreen) → [[tools/_index|工具索引]]
+  - 跳过 X 账号认证指南（平台时效性技巧，非知识资产）

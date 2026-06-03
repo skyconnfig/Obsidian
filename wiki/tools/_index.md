@@ -55,6 +55,7 @@
 | **[[openrouter\|OpenRouter]]** | LLM API 聚合网关，每日免费 50 次，1.13 亿美元 B 轮融资 | openrouter.md |
 | **Horizon** | AI 日报系统（每日自动推送） | horizon/ |
 | **PicGo + Gitee** | 免费图床方案，配合 Obsidian 插件自动上传替换图片 | 工作/Markdown |
+| **OpenScreen** | 免费开源录屏工具（Screen Studio 替代），支持缩放/标注/裁剪/运动模糊，Mac/Windows/Linux | skyconnfig/openscreen |
 
 ## 🔒 前端安全
 | 工具 | 用途 | 来源 |
