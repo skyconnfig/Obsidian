@@ -25,6 +25,7 @@
 | **Fay** | 数字人框架 v5.4 | 人工智能相关/Fay5_4_Sep |
 | **ComfyUI** | Stable Diffusion 工作流界面 | 人工智能相关/comfyui |
 | **GraphRAG** | 图数据库 RAG (Neo4j) | 大模型/GraphRAG |
+| **TripoSplat** | 单张 2D 图片 → 高质量 3D Gaussian Splatting，2000 行代码零依赖，支持 ComfyUI | skyconnfig/TripoSplat |
 | **Odysseus** | 自托管 AI 工作空间 — 本地版 ChatGPT/Claude，Docker 部署，含智能体/深度研究/模型管家/记忆技能 | skyconnfig/odysseus |
 | **GPT Image 2 Prompts** | 全球最大 GPT Image 2 提示词库，2000+ 精选提示词，16 语言，每日更新 | skyconnfig/gpt-image2-prompts |
 | **[[skyconnfig-gsap-skills\|GSAP Skills]]** | GSAP 官方 AI 技能包镜像 — 8 模块（core/timeline/scrolltrigger/plugins/react/performance） | skyconnfig/gsap-skills |
@@ -56,12 +57,15 @@
 | **Horizon** | AI 日报系统（每日自动推送） | horizon/ |
 | **PicGo + Gitee** | 免费图床方案，配合 Obsidian 插件自动上传替换图片 | 工作/Markdown |
 | **OpenScreen** | 免费开源录屏工具（Screen Studio 替代），支持缩放/标注/裁剪/运动模糊，Mac/Windows/Linux | skyconnfig/openscreen |
+| **麦肯锡提示词** | GPT Image 咨询风视觉提示词套装，覆盖信息图/流程图/矩阵图/方法论图 | @AdrianPunk115 |
+| **微信群聊分析 Skill** | 100% 不封号的微信群活跃度分析工具，本地解密聊天记录 | @punk2898 |
 
 ## 🔒 前端安全
 | 工具 | 用途 | 来源 |
 |------|------|------|
 | **[[disable-devtool\|disable-devtool]]** | 一行代码禁用 F12/右键/开发者工具，适合在线考试防作弊 | theajack/disable-devtool |
 | **JD-GUI** | Java 反编译图形化工具（.class → .java） | 日常文件夹/ |
+| **reverse-skill** | 逆向/渗透安全 AI 技能路由包 — 自动路由 + 按需自举工具链 + 自动进化经验库 | skyconnfig/reverse-skill |
 
 ## 🔑 AI 账号与工具管理
 | 工具 | 用途 | 来源 |
@@ -73,4 +77,6 @@
 | 工具 | 用途 | 来源 |
 |------|------|------|
 | **OmniGet** | 开源桌面下载器（Tauri+Rust+Svelte），支持 Udemy/YouTube/1800+ 站点，内置 PDF/EPUB 阅读器 | tonhowtf/omniget |
+| **NewPipe** | Android 轻量级流媒体前端，YouTube 自由替代客户端 | skyconnfig/NewPipe |
+| **echocut** | 本地优先视频 CLI — FFmpeg + WhisperX + Ollama，一条命令出加字幕/品牌/封面的成片 | BillLucky/echocut |
 

@@ -1,6 +1,6 @@
 # 📚 知识库索引
 
-> 由 LLM 自动维护 · 最后更新: 2026-06-03（第 8 次增量编译）
+> 由 LLM 自动维护 · 最后更新: 2026-06-04（第 9 次增量编译）
 
 ## 📊 统计
 
@@ -90,3 +90,7 @@
 - **v10 增量 (06-03)**: 1 个新剪藏
   - 免费开源录屏工具 (OpenScreen) → [[tools/_index|工具索引]]
   - 跳过 X 账号认证指南（平台时效性技巧，非知识资产）
+- **v11 增量 (06-04)**: 9 个新剪藏 → 7 收录 + 2 跳过
+  - TripoSplat (2D→3D)、reverse-skill (渗透路由)、NewPipe、echocut、麦肯锡提示词、微信群分析 → [[tools/_index|工具索引]]
+  - Claude Code 全网爬虫三件套 (agent-reach/Scrapling/Browser-use) → [[tools/AI编程-Codex-Cursor实战]] §10
+  - 跳过 飞书机器人文档链接（过薄）、AI 搞钱策略（非技术知识）
