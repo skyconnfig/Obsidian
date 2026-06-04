@@ -60,6 +60,12 @@
 | **麦肯锡提示词** | GPT Image 咨询风视觉提示词套装，覆盖信息图/流程图/矩阵图/方法论图 | @AdrianPunk115 |
 | **微信群聊分析 Skill** | 100% 不封号的微信群活跃度分析工具，本地解密聊天记录 | @punk2898 |
 
+## 🖥️ 系统工具
+| 工具 | 用途 | 来源 |
+|------|------|------|
+| **Pinkbin** | 开源磁盘清理 Agent — Tauri 2 + React + Rust，AI 识别文件夹用途，逐项安全删除 | cccyd2003-qwq/pinkbin |
+| **Coreutils for Windows** | 微软维护的 Windows 原生 UNIX 命令集 (ls/grep/find)，与 Linux/macOS 脚本兼容 | microsoft/coreutils |
+
 ## 🔒 前端安全
 | 工具 | 用途 | 来源 |
 |------|------|------|

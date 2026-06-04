@@ -1,6 +1,6 @@
 # 📚 知识库索引
 
-> 由 LLM 自动维护 · 最后更新: 2026-06-04（第 9 次增量编译）
+> 由 LLM 自动维护 · 最后更新: 2026-06-04（第 10 次增量编译）
 
 ## 📊 统计
 
@@ -94,3 +94,6 @@
   - TripoSplat (2D→3D)、reverse-skill (渗透路由)、NewPipe、echocut、麦肯锡提示词、微信群分析 → [[tools/_index|工具索引]]
   - Claude Code 全网爬虫三件套 (agent-reach/Scrapling/Browser-use) → [[tools/AI编程-Codex-Cursor实战]] §10
   - 跳过 飞书机器人文档链接（过薄）、AI 搞钱策略（非技术知识）
+- **v12 增量 (06-04)**: 2 个新剪藏
+  - Pinkbin 磁盘清理 Agent (Tauri 2 + React + Rust + AI) → [[tools/_index|工具索引]]
+  - Coreutils for Windows (微软原生 UNIX 命令集) → [[tools/_index|工具索引]]
